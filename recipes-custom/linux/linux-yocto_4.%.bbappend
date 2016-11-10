@@ -6,5 +6,6 @@ SRC_URI += "file://vm_kvm.cfg \
 	    file://dvb.cfg \
 	    file://bluetooth.cfg \
 	    file://gfx.cfg \
+	    file://intel_wlan.cfg \
 "
 
